@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.section{
+    width: 100%;
+}
+
+#colum1{
+    background-color: #3E5378;
+    padding-bottom: 40px;
+    padding: 150px;
+    min-height: 600px;
+}
+#colum2{
+    padding-bottom: 40px;
+    padding: 150px;
+    min-height: 600px;
+}
+
+.beme{
+    color: #fff;
+    font-family: snap itc;
+    padding-bottom: 20px;
+}
+.colrighth1{
+    color: #fff;
+    font-weight: 800;
+    
+}
+.col-p{
+    color: #fff;
+}
+
+#colum2 .buttons{
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.buttons .signin{
+outline: none;
+color: #000;
+border-bottom: solid 2px gray;
+font-size: 23px;
+}
+
+.buttons .register{
+    outline: none;
+    color: #000;
+    text-decoration: none;
+    font-size: 23px;
+    border-bottom: solid 2px gray;
+    }
+
+.buttons .facebook{
+width: 400px;
+height: 5px;
+padding: 5px 10px;
+margin: 0px 10px;
+font-size: 13px;
+text-decoration: none;
+color: black;
+}
+
+
+
+
+#email{
+    border: none;
+    border-bottom: solid 2px rgba(0, 0, 0, 0.2);
+    outline: none;
+    width: 350px;
+    text-align: center;
+    padding-bottom: 10px;
+
+}
+#email::placeholder{
+    color: rgba(0, 0, 0, 0.3);
+}
+
+#password{
+    border: none;
+    border-bottom: solid 2px rgba(0, 0, 0, 0.2);
+    outline: none;
+    width: 350px;
+    text-align: center;
+    padding-bottom: 10px;
+    
+}
+
+#password::placeholder{
+    color: rgba(0, 0, 0, 0.3);
+}
+
+#forgotpassword{
+    text-align: right;
+    color: #3E5378;
+    font-weight: 500;
+    float: right;
+    margin: 0px 83px;
+}
+
+
+#login{
+    background-color: #3E5378;
+    color: #fff;
+    margin: 10px;
+}
+
+#col2{
+   
+text-align: center;
+padding-top: 90px;
+}
+
+
+#col2p{
+    color: #60A7AE;
+    font-size: 18px;
+}
+
+#col2h1{
+    color: #3E5378;
+    font-weight: 400;
+    padding: 5px;
+    font-size: 36px;
+}
+
+#pre{
+    margin-top: 20px;
+}
+
+#forgotpassword{
+    align-items: left;
+}
